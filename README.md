@@ -1,1 +1,2 @@
-# Job_application
+# Job_application Dashboard
+This project is based on HTML and css
